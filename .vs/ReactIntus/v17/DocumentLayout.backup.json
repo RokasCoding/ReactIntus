@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC56F661-CC06-4C0E-B105-37413E477B8B}|reactintus.client\\reactintus.client.esproj|c:\\users\\jazas\\source\\repos\\reactintus\\reactintus.client\\src\\components\\rectangle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AC56F661-CC06-4C0E-B105-37413E477B8B}|reactintus.client\\reactintus.client.esproj|solutionrelative:reactintus.client\\src\\components\\rectangle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle.jsx",
+              "DocumentMoniker": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\reactintus.client\\src\\components\\rectangle.jsx",
+              "RelativeDocumentMoniker": "reactintus.client\\src\\components\\rectangle.jsx",
+              "ToolTip": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\reactintus.client\\src\\components\\rectangle.jsx",
+              "RelativeToolTip": "reactintus.client\\src\\components\\rectangle.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-30T12:13:46.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

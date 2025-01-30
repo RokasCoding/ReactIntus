@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\rectangleDimensions.json",
+      "PackagePath": "staticwebassets\\rectangleDimensions.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReactIntus.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReactIntus.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReactIntus.Server.props",
+      "PackagePath": "build\\ReactIntus.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReactIntus.Server.props",
+      "PackagePath": "buildMultiTargeting\\ReactIntus.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReactIntus.Server.props",
+      "PackagePath": "buildTransitive\\ReactIntus.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

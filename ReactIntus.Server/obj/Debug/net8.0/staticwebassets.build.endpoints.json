@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "rectangleDimensions.jjhcwpi7bl.json",
+      "AssetFile": "rectangleDimensions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 14:25:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjhcwpi7bl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="
+        },
+        {
+          "Name": "label",
+          "Value": "rectangleDimensions.json"
+        }
+      ]
+    },
+    {
+      "Route": "rectangleDimensions.json",
+      "AssetFile": "rectangleDimensions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 14:25:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ReactIntus.Server/rectangleDimensions.jjhcwpi7bl.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rectangleDimensions.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jjhcwpi7bl"},{"Name":"integrity","Value":"sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="},{"Name":"label","Value":"_content/ReactIntus.Server/rectangleDimensions.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 14:25:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ReactIntus.Server/rectangleDimensions.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rectangleDimensions.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 14:25:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

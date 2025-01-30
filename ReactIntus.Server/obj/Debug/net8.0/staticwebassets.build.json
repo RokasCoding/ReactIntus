@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "Hash": "lSS03Kgfw8JaYc0VpfE4vd8H8PPX+yQ0vANMLrgo6lU=",
+  "Source": "ReactIntus.Server",
+  "BasePath": "_content/ReactIntus.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\reactintus.client\\reactintus.client.esproj",
+      "Version": 2,
+      "Source": "reactintus.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReactIntus.Server\\wwwroot",
+      "Source": "ReactIntus.Server",
+      "ContentRoot": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\",
+      "BasePath": "_content/ReactIntus.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\rectangleDimensions.json",
+      "SourceId": "ReactIntus.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\",
+      "BasePath": "_content/ReactIntus.Server",
+      "RelativePath": "rectangleDimensions#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jjhcwpi7bl",
+      "Integrity": "MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rectangleDimensions.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "rectangleDimensions.jjhcwpi7bl.json",
+      "AssetFile": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\rectangleDimensions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 14:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjhcwpi7bl"
+        },
+        {
+          "Name": "label",
+          "Value": "rectangleDimensions.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="
+        }
+      ]
+    },
+    {
+      "Route": "rectangleDimensions.json",
+      "AssetFile": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\wwwroot\\rectangleDimensions.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 14:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MRgHpAf2j260cw6nQysGnrZVB4xLpFiP/2emuRDLlMM="
+        }
+      ]
+    }
+  ]
+}

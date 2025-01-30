@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:11338",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Jazas\\source\\repos\\ReactIntus\\ReactIntus.Server\\..\\reactintus.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
