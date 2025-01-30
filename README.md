@@ -1,19 +1,27 @@
 # ReactIntus
 
-ReactIntus is a full-stack application built with .NET for the backend and React for the frontend using Vite. 
+ReactIntus is a full-stack application built with **.NET** for the backend and **React** for the frontend using **Vite**.
+
+## Features
+- The application renders SVG rectangle according to the dimensions in the **rectangleDimensions.json** file located in **ReactIntus.Server/wwwroot/**.
+- The user interface allows resizing the rectangular using a mouse.
+- The perimeter of the rectangular is calculated and shown in the application as it is resized.
+- After resizing, dimensions are updated in **rectangleDimensions.json** file.
+- If the rectangular width exceeds height, it shows error message and timeouts calculations for 10 seconds.
+- After error message is displayed, size of the rectangular can still be changed.
 
 ## Technologies
 
-- Frontend:
+- **Frontend:
   - React
   - Vite
 
-- Backend:
+- **Backend:**
   - ASP.NET Core
   - .NET 8
   - C# 12.0
 
-- Tools:
+- **Tools:**
   - Visual Studio 2022
   - Node.js & npm
   - Git
